@@ -9,7 +9,7 @@ I believe in a hands-on approach to learning, and I'm fascinated by the intersec
 
 ## 🌱 What I’m Working On  
 - **Unity Game Development**: Building a 2D online game to dive into the world of interactive design and multiplayer experiences.  
-- **German Language Proficiency**: Continuously improving my skills (currently at B1) to prepare for my academic and professional journey in Germany.  
+- **German Language Proficiency**: Continuously improving my skills (currently at B2) to prepare for my academic and professional journey in Germany.  
 - **Exploring Data Science**: Preparing for a potential dual-study program in fields like Data Science or Wirtschaftsinformatik.  
 
 ---
